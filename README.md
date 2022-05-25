@@ -1,3 +1,4 @@
  - add a .env file as the same as env.example
  - the API that i am using just allow me to fetch two pages, that's why the pagination just shows two items
  - the API does not have an endpoint to fetch an specific article, that's why i am storing article in navigation state
+ - the API does not return like a full content of the article, so in the article detail page you are not going be able to see the complete article
